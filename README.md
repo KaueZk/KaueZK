@@ -8,6 +8,7 @@ Me chamo Kauê Silva de Lima, tenho 21 anos e sou natural de São Paulo. Conclu�
 Meu Portfólio virtual: "[Portfólio Kauê Silva de Lima](https://kauezk.github.io/KaueSilvaPortfolio/)"
 
 Alguns dos meus códigos aqui: "[Code pen KaueZK](https://codepen.io/Kaue-Silva-de-Lima)"
+<br>
 
 <p align="left">
     </a> 
