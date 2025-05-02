@@ -76,7 +76,7 @@ Me chamo Kauê Silva de Lima, tenho 21 anos e sou natural de São Paulo. Conclu�
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KaueZK&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -84,7 +84,7 @@ Me chamo Kauê Silva de Lima, tenho 21 anos e sou natural de São Paulo. Conclu�
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="150" 
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueZK&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
