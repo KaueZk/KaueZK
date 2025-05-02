@@ -3,9 +3,11 @@
 **`Desenvolvedor Iniciante`**
 
 
-Me chamo Kauê Silva de Lima, tenho 21 anos e sou natural de São Paulo. Concluí o ensino superior na Universidade Metodista de São Paulo, com o curso em Gestão de Tecnologia da Informação. Atualmente, estou em busca de novos aprendizados na área de programação. Quero me tornar FullStack e trabalhar na área. Alguns dos meus códigos aqui: "[Code pen KaueZK](https://codepen.io/Kaue-Silva-de-Lima)"
+Me chamo Kauê Silva de Lima, tenho 21 anos e sou natural de São Paulo. Concluí o ensino superior na Universidade Metodista de São Paulo, com o curso em Gestão de Tecnologia da Informação. Atualmente, estou em busca de novos aprendizados na área de programação. Quero me tornar FullStack e trabalhar na área. 
 
 Meu Portfólio virtual: "[Portfólio Kauê Silva de Lima](https://kauezk.github.io/KaueSilvaPortfolio/)"
+
+Alguns dos meus códigos aqui: "[Code pen KaueZK](https://codepen.io/Kaue-Silva-de-Lima)"
 
 <p align="left">
     </a> 
