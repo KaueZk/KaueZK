@@ -3,7 +3,7 @@
 **`Desenvolvedor Iniciante`**
 
 
-Me chamo Kauê Silva de Lima, tenho 21 anos e sou natural de São Paulo. Concluí o ensino superior na Universidade Metodista de São Paulo, com o curso em Gestão de Tecnologia da Informação. Atualmente, estou em busca de novos aprendizados na área de programação. Quero me tornar FullStack e trabalhar na área. 
+Me chamo Kauê Silva de Lima, tenho 22 anos e sou natural de São Paulo. Concluí o ensino superior na Universidade Metodista de São Paulo, com o curso em Gestão de Tecnologia da Informação. Atualmente, estou em busca de novos aprendizados na área de programação. Quero me tornar FullStack e trabalhar na área. 
 
 Meu Portfólio virtual: "[Portfólio Kauê Silva de Lima](https://kauezk.github.io/KaueSilvaPortfolio/)"
 
